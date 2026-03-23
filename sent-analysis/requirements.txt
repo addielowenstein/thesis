@@ -1,0 +1,5 @@
+# Mandarin-capable BERT tokenizer (and model if needed later)
+transformers>=4.30.0
+torch>=2.0.0
+# Qwen3.5 crisis sentiment (OpenAI-compatible API)
+openai>=1.0.0
